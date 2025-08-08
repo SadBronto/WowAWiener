@@ -1,0 +1,8 @@
+# Wow A Wiener
+
+This repository hosts assets for the Wow A Wiener game, including:
+
+- `wiener.gif` or `wiener.webm` – dancing hot dog animation
+- `/sounds/` – sound effects triggered during gameplay
+
+The actual game (`index.html`) is hosted separately on Netlify.
